@@ -16,6 +16,19 @@
 		EC0537F41E352EBC004C27B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC0537F21E352EBC004C27B1 /* Main.storyboard */; };
 		EC0537F61E352EBC004C27B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC0537F51E352EBC004C27B1 /* Assets.xcassets */; };
 		EC0537F91E352EBC004C27B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC0537F71E352EBC004C27B1 /* LaunchScreen.storyboard */; };
+		EC0538021E352EFF004C27B1 /* Mjehuric.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0538011E352EFF004C27B1 /* Mjehuric.m */; };
+		EC0538041E353180004C27B1 /* mjehuric.png in Resources */ = {isa = PBXBuildFile; fileRef = EC0538031E353180004C27B1 /* mjehuric.png */; };
+		EC0538061E35318B004C27B1 /* deepSea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EC0538051E35318B004C27B1 /* deepSea.jpg */; };
+		EC0538091E354838004C27B1 /* IzvorMjehurica.m in Sources */ = {isa = PBXBuildFile; fileRef = EC0538081E354838004C27B1 /* IzvorMjehurica.m */; };
+		EC1979831E368FF300953F5B /* Ronilac.m in Sources */ = {isa = PBXBuildFile; fileRef = EC1979821E368FF300953F5B /* Ronilac.m */; };
+		ECBE857C1E3752A0005A8F46 /* scuba1.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE85741E3752A0005A8F46 /* scuba1.png */; };
+		ECBE857D1E3752A0005A8F46 /* scuba2.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE85751E3752A0005A8F46 /* scuba2.png */; };
+		ECBE857E1E3752A0005A8F46 /* scuba3.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE85761E3752A0005A8F46 /* scuba3.png */; };
+		ECBE857F1E3752A0005A8F46 /* scuba4.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE85771E3752A0005A8F46 /* scuba4.png */; };
+		ECBE85801E3752A0005A8F46 /* scuba5.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE85781E3752A0005A8F46 /* scuba5.png */; };
+		ECBE85811E3752A0005A8F46 /* scuba6.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE85791E3752A0005A8F46 /* scuba6.png */; };
+		ECBE85821E3752A0005A8F46 /* scuba7.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE857A1E3752A0005A8F46 /* scuba7.png */; };
+		ECBE85831E3752A0005A8F46 /* scuba8.png in Resources */ = {isa = PBXBuildFile; fileRef = ECBE857B1E3752A0005A8F46 /* scuba8.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +46,22 @@
 		EC0537F51E352EBC004C27B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC0537F81E352EBC004C27B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC0537FA1E352EBC004C27B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC0538001E352EFF004C27B1 /* Mjehuric.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mjehuric.h; sourceTree = "<group>"; };
+		EC0538011E352EFF004C27B1 /* Mjehuric.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mjehuric.m; sourceTree = "<group>"; };
+		EC0538031E353180004C27B1 /* mjehuric.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mjehuric.png; sourceTree = "<group>"; };
+		EC0538051E35318B004C27B1 /* deepSea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = deepSea.jpg; sourceTree = "<group>"; };
+		EC0538071E354838004C27B1 /* IzvorMjehurica.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IzvorMjehurica.h; sourceTree = "<group>"; };
+		EC0538081E354838004C27B1 /* IzvorMjehurica.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IzvorMjehurica.m; sourceTree = "<group>"; };
+		EC1979811E368FF300953F5B /* Ronilac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ronilac.h; sourceTree = "<group>"; };
+		EC1979821E368FF300953F5B /* Ronilac.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Ronilac.m; sourceTree = "<group>"; };
+		ECBE85741E3752A0005A8F46 /* scuba1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba1.png; sourceTree = "<group>"; };
+		ECBE85751E3752A0005A8F46 /* scuba2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba2.png; sourceTree = "<group>"; };
+		ECBE85761E3752A0005A8F46 /* scuba3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba3.png; sourceTree = "<group>"; };
+		ECBE85771E3752A0005A8F46 /* scuba4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba4.png; sourceTree = "<group>"; };
+		ECBE85781E3752A0005A8F46 /* scuba5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba5.png; sourceTree = "<group>"; };
+		ECBE85791E3752A0005A8F46 /* scuba6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba6.png; sourceTree = "<group>"; };
+		ECBE857A1E3752A0005A8F46 /* scuba7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba7.png; sourceTree = "<group>"; };
+		ECBE857B1E3752A0005A8F46 /* scuba8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = scuba8.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +78,16 @@
 		EC0537D61E352EBC004C27B1 = {
 			isa = PBXGroup;
 			children = (
+				EC0538051E35318B004C27B1 /* deepSea.jpg */,
+				EC0538031E353180004C27B1 /* mjehuric.png */,
+				ECBE85741E3752A0005A8F46 /* scuba1.png */,
+				ECBE85751E3752A0005A8F46 /* scuba2.png */,
+				ECBE85761E3752A0005A8F46 /* scuba3.png */,
+				ECBE85771E3752A0005A8F46 /* scuba4.png */,
+				ECBE85781E3752A0005A8F46 /* scuba5.png */,
+				ECBE85791E3752A0005A8F46 /* scuba6.png */,
+				ECBE857A1E3752A0005A8F46 /* scuba7.png */,
+				ECBE857B1E3752A0005A8F46 /* scuba8.png */,
 				EC0537E11E352EBC004C27B1 /* DeepSea */,
 				EC0537E01E352EBC004C27B1 /* Products */,
 			);
@@ -69,6 +108,12 @@
 				EC0537E61E352EBC004C27B1 /* AppDelegate.m */,
 				EC0537E81E352EBC004C27B1 /* GameScene.sks */,
 				EC0537EA1E352EBC004C27B1 /* Actions.sks */,
+				EC0538001E352EFF004C27B1 /* Mjehuric.h */,
+				EC0538011E352EFF004C27B1 /* Mjehuric.m */,
+				EC0538071E354838004C27B1 /* IzvorMjehurica.h */,
+				EC0538081E354838004C27B1 /* IzvorMjehurica.m */,
+				EC1979811E368FF300953F5B /* Ronilac.h */,
+				EC1979821E368FF300953F5B /* Ronilac.m */,
 				EC0537EC1E352EBC004C27B1 /* GameScene.h */,
 				EC0537ED1E352EBC004C27B1 /* GameScene.m */,
 				EC0537EF1E352EBC004C27B1 /* GameViewController.h */,
@@ -149,11 +194,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ECBE85801E3752A0005A8F46 /* scuba5.png in Resources */,
+				EC0538061E35318B004C27B1 /* deepSea.jpg in Resources */,
+				ECBE85811E3752A0005A8F46 /* scuba6.png in Resources */,
 				EC0537F41E352EBC004C27B1 /* Main.storyboard in Resources */,
 				EC0537E91E352EBC004C27B1 /* GameScene.sks in Resources */,
 				EC0537F61E352EBC004C27B1 /* Assets.xcassets in Resources */,
+				ECBE85831E3752A0005A8F46 /* scuba8.png in Resources */,
+				ECBE857C1E3752A0005A8F46 /* scuba1.png in Resources */,
 				EC0537F91E352EBC004C27B1 /* LaunchScreen.storyboard in Resources */,
+				ECBE85821E3752A0005A8F46 /* scuba7.png in Resources */,
+				ECBE857E1E3752A0005A8F46 /* scuba3.png in Resources */,
+				ECBE857D1E3752A0005A8F46 /* scuba2.png in Resources */,
+				EC0538041E353180004C27B1 /* mjehuric.png in Resources */,
 				EC0537EB1E352EBC004C27B1 /* Actions.sks in Resources */,
+				ECBE857F1E3752A0005A8F46 /* scuba4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -165,8 +220,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC0537F11E352EBC004C27B1 /* GameViewController.m in Sources */,
+				EC1979831E368FF300953F5B /* Ronilac.m in Sources */,
+				EC0538091E354838004C27B1 /* IzvorMjehurica.m in Sources */,
 				EC0537E71E352EBC004C27B1 /* AppDelegate.m in Sources */,
 				EC0537EE1E352EBC004C27B1 /* GameScene.m in Sources */,
+				EC0538021E352EFF004C27B1 /* Mjehuric.m in Sources */,
 				EC0537E41E352EBC004C27B1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -326,6 +384,7 @@
 				EC0537FF1E352EBC004C27B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

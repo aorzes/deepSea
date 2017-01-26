@@ -21,7 +21,8 @@
     scene.scaleMode = SKSceneScaleModeAspectFill;
     
     SKView *skView = (SKView *)self.view;
-    
+    //velicina
+    scene.size=self.view.bounds.size;
     // Present the scene
     [skView presentScene:scene];
     
