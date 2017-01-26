@@ -29,6 +29,7 @@
             CGPoint location = [touch locationInNode:self];
             float distance = hypotf(ron.position.x-location.x,ron.position.y-location.y);
             float angle = M_PI+atan2(ron.position.y - location.y, ron.position.x - location.x);
+            [ron removeAllActions];
             SKAction *ronAngle = [SKAction rotateToAngle:angle duration:1.5 shortestUnitArc:YES];
             SKAction *ronMove = [SKAction moveTo:location duration:distance/50];
             [ron runAction:[SKAction sequence:@[ronAngle,ronMove]]];
